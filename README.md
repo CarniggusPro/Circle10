@@ -1,3 +1,4 @@
-# Circle10
-Study app for AltSchool Cybersecurity Learners.
-Version 2
+# Circle10 (Ver. 2)
+_Initially named "Panels."_
+
+Study app for AltSchool Africa Karatu-2025 Cybersecurity Learners.
